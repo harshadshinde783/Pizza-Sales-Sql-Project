@@ -130,7 +130,6 @@ The file `pizza_sales_queries.sql` includes:
 ## 🛠️ Tools Used
 - MySQL  
 - CSV Dataset  
-- GitHub  
 
 ---
 
