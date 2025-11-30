@@ -5,6 +5,12 @@ It includes database schema creation, CSV data import, and advanced SQL queries 
 
 ---
 
+## 📸 **Dashboard Preview**
+
+![Dashboard](Dashboard_Image.jpg)
+
+---
+
 ## 📂 Project Structure
 
 project/
