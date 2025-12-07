@@ -18,6 +18,8 @@ project/
              ├── order_details.csv
              ├── pizzas.csv
              └── pizza_types.csv
+├── Screenshots/
+      └── query_output.png  
 
 ---
 
